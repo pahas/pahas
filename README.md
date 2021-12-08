@@ -1,10 +1,10 @@
 <!--START_SECTION:waka-->
 ```text
-TypeScript   16 hrs 49 mins  ███████████████████░░░░░░   76.10 % 
-C++          3 hrs 45 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.01 % 
-Python       25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-JSON         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-JavaScript   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+TypeScript   14 hrs 43 mins  ██████████████████░░░░░░░   72.29 % 
+C++          4 hrs 6 mins    █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
+Python       25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+JSON         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Dart         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 ```
 <!--END_SECTION:waka-->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pahas&theme=white" alt="My contributions" />
