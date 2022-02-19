@@ -1,7 +1,5 @@
 <!--START_SECTION:waka-->
 ```text
-Total: 1 hr 43 mins
-
 Python       58 mins         ██████████████░░░░░░░░░░░   56.34 % 
 Solidity     30 mins         ███████▒░░░░░░░░░░░░░░░░░   29.13 % 
 JSON         8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
