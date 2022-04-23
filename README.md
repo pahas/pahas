@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Dart   7 mins          █████████████████████████   100.00 %
+HTML   30 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
