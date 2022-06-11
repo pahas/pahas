@@ -1,9 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-XML     4 mins          █████████████████████▓░░░   87.01 %
-C#      0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   12.51 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
